@@ -2,6 +2,7 @@ body {
 
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	margin: auto;
+	background-image: url("../images/hip-square.png");
 }
 
 #wrap {
@@ -39,9 +40,9 @@ header {
 	color: white;
 	text-align: center;
 	padding: 0px;
-	width: 30%;
+	width: 18%;
 	float: left;
-	margin-left: 40px;
+	margin-left: 250px;
 
 }
 
@@ -49,6 +50,8 @@ nav {
 
 float: right;
 margin-top: 30px;
+margin-right: 230px;
+
 
 }
 
@@ -68,7 +71,6 @@ nav a {
 #main {
 	overflow: hidden;
 	padding-bottom: 40px;
-	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/hip-square.png");
 }
 
 section {
